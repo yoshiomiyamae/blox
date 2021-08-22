@@ -1,7 +1,8 @@
 Blox
 ===
+
 An implementation of a famous video game, in typescript.
 
 ```sh
-yarn dev
+yarn && yarn dev
 ```
